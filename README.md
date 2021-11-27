@@ -36,6 +36,10 @@ Bunch of free developer resources
 
 # Awesome Animations
 ## Animated particales
+
+### Particles.js.org
+- https://particles.js.org/
+
 #### `Particales` that responds to mouse move
 - https://vincentgarreau.com/particles.js/
 
