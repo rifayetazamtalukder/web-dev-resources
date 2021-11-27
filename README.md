@@ -38,3 +38,6 @@ Bunch of free developer resources
 ## Animated particales
 #### `Particales` that responds to mouse move
 - https://vincentgarreau.com/particles.js/
+
+### Simple Particle Codepen
+- https://codepen.io/rifayet/pen/vYeBGJm
