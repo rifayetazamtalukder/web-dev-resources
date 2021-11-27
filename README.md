@@ -32,3 +32,9 @@ Bunch of free developer resources
 - https://akveo.github.io/eva-icons/#/
 - https://phosphoricons.com/
 - https://heroicons.com/
+
+
+# Awesome Animations
+## Animated particales
+#### `Particales` that responds to mouse move
+- https://vincentgarreau.com/particles.js/
