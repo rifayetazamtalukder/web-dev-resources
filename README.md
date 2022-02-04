@@ -1,6 +1,9 @@
 # web-dev-resources
 Bunch of free developer resources
 
+# UI Goodies
+ - SVG, Patterns, Icons, Background: [http://www.uigoodies.com/](http://www.uigoodies.com/)
+
 # SVG
 
 ## Free SVG illustrations
@@ -9,7 +12,7 @@ Bunch of free developer resources
 
 
 ## Minify SVGs
-- https://jakearchibald.github.io/svgomg/
+- [https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/)
 
 ## Free SVG Patterns
 - https://www.heropatterns.com/
@@ -32,7 +35,6 @@ Bunch of free developer resources
 - https://akveo.github.io/eva-icons/#/
 - https://phosphoricons.com/
 - https://heroicons.com/
-
 
 # Awesome Animations
 ## Animated particales
